@@ -31,7 +31,7 @@ export const Route = createFileRoute("/scan")({
       },
     ],
   }),
-  component: Scan;
+  component: Scan,
 });
 
 function Scan() {
